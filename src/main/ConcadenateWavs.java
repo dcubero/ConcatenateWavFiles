@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class ConcadenateWavs {
 	static String routeSox = "C:\\Program Files (x86)\\sox-14-4-2\\sox.exe";
-	static File routeFiles = new File("C:\\Users\\Diego\\Desktop\\martaglissando");
+	static File routeFiles = new File("C:\\Users\\------\\Desktop\\------");
 	static HashMap<String, String> listFilePath = new HashMap<>();
 	
 	
