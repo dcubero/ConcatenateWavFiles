@@ -1,2 +1,2 @@
 # ConcatenateWavFiles
-Concatenate wav files using SoX
+Concatenate wav files using the library SoX
